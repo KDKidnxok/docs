@@ -1,4 +1,4 @@
----
+---Welcome to GitHub docs contributing guide
 title: GitHub Terms of Service
 redirect_from:
   - /tos
